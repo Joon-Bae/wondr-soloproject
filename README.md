@@ -6,6 +6,6 @@
   <br>clone: Flickr</br>
 </h5>
 
-<br>They say that a picture is worth a thousand words! Let's make it so that pictures are worth so much more.
+<br>They say that a picture is worth a thousand words! Let's make it so that pictures are worth so much more.</br>
 Wondr provides users with the platform to share amazing photographs with the world and even view what other users posted! Wondr also provides users with the option to 
 create albums that will personalize their memories into meaningful groups
