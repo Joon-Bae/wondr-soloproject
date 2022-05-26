@@ -6,6 +6,8 @@
   <br>clone: Flickr</br>
 </h3>
 
-<h5 align="center" dir="auto"><br>They say that a picture is worth a thousand words... Let's make it so that pictures are worth so much more.<br>
-<br>Wondr provides users with the platform to share amazing photographs with the world and even view what other users posted!</br>
-Wondr also provides users with the option to create albums that users can use to personalize their memories into meaningful groups</h5>
+<h4 align="center" dir="auto">They say that a picture is worth a thousand words... Let's make it so that pictures are worth so much more.</h4>
+<h1></h1>
+
+Wondr provides users with the platform to share amazing photographs with the world and view what other users posted!</br>
+Wondr also provides users with the option to create albums that can be used to personalize their memories.
