@@ -9,5 +9,5 @@
 <h4 align="center" dir="auto">They say that a picture is worth a thousand words... Let's make it so that pictures are worth so much more.</h4>
 <h1></h1>
 
-<h5 align="center"><br>Wondr provides users with the platform to share amazing photographs with the world!</br>
-Wondr also provides users with the option to create albums that can be used to personalize their memories.</h5>
+<h4 align="center">Wondr provides users with the platform to share amazing photographs with the world and view what others posted!
+<br>Wondr also provides users with the option to create albums that can be used to personalize their memories.</br></h4>
