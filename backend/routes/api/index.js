@@ -9,6 +9,15 @@ router.post('/test', (req, res) => {
   res.json({ requestBody: req.body });
 });
 
+router.get('/api/csrf/restore', (req,res)=>{
+  if (process.env.NODE_ENV !== 'production') {
+      router.get('/api/csrf/restore', (req, res) => {
+        res.cookie('XSRF-TOKEN', req.csrfToken());
+        return res.json({});
+      });
+    }
+})
+
 module.exports = router;
 
 
